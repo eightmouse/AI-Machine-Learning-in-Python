@@ -5,4 +5,4 @@ There are in total 5 challenges, the completion rewards you with a certificate.
 - [x] Cat & Dog Classifier
 - [x] Book Recommendation Engine using KNN
 - [x] Linear Regression Health Costs Calculator
-- [ ] Neural Network SMS Text Classifier
+- [x] Neural Network SMS Text Classifier
